@@ -1,59 +1,84 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Point of Sale (POS) System
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+A web-based Point of Sale (POS) system designed to manage sales operations with speed, accuracy, and clear role-based access. This project was built as a learning-focused application to understand real-world business workflows and backend logic.
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 📌 Project Overview
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+This POS system helps manage products, categories, and sales transactions efficiently. It includes multiple user roles to ensure proper access control and supports automatic total calculation to reduce errors during checkout.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+The project focuses on building a practical system that reflects how POS systems are used in real business environments.
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+## ✨ Features
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Product management (add, update, delete products)
+- Category management
+- Role-based access control:
+  - User
+  - Admin
+  - Super Admin
+- Automatic total calculation for sales transactions
+- Fast and accurate checkout process
+- User-friendly interface
+- Organized and practical sales workflow
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## 🛠 Tech Stack
 
-### Premium Partners
+- Frontend: HTML, CSS, JavaScript, Bootstrap (or Tailwind if used)
+- Backend: PHP, Laravel
+- Database: MySQL
+- Tools: GitHub
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+---
 
-## Contributing
+## 👤 User Roles
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- **User:** Handles sales transactions
+- **Admin:** Manages products and categories
+- **Super Admin:** Full system control, including user management
 
-## Code of Conduct
+---
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## 🎯 Purpose of the Project
 
-## Security Vulnerabilities
+This project was created to:
+- Practice full-stack web development
+- Learn role-based authentication and authorization
+- Understand POS business logic
+- Improve backend and application logic skills
+- Build a real-world portfolio project
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
-## License
+## 🚀 Future Improvements
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- Sales reports and analytics
+- Receipt printing or export
+- Stock level tracking
+- API integration
+- Improved UI/UX design
+
+---
+
+## 📷 Screenshots
+
+_Add screenshots of the dashboard, product list, and sales page here._
+
+---
+
+## 📄 License
+
+This project is for learning and portfolio purposes.
+
+---
+
+## 🙋‍♀️ Author
+
+**May Thu Thu Zaw**  
+IT Student | Aspiring Software Engineer  
+GitHub: _your-github-link-here_
