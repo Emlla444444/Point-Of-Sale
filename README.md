@@ -12,6 +12,8 @@ This POS system helps manage products, categories, and sales transactions effici
 
 The project focuses on building a practical system that reflects how POS systems are used in real business environments.
 
+<img width="2557" height="1427" alt="image" src="https://github.com/user-attachments/assets/fd668506-5f3b-4b77-90db-09257a508605" />
+
 ---
 
 ## ✨ Features
