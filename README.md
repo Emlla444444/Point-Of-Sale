@@ -67,12 +67,6 @@ This project was created to:
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots of the dashboard, product list, and sales page here._
-
----
-
 ## 📄 License
 
 This project is for learning and portfolio purposes.
