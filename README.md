@@ -2,6 +2,8 @@
 
 A web-based Point of Sale (POS) system designed to manage sales operations with speed, accuracy, and clear role-based access. This project was built as a learning-focused application to understand real-world business workflows and backend logic.
 
+<img width="2560" height="1421" alt="image" src="https://github.com/user-attachments/assets/52574f32-c1d2-49de-8e9e-8e86870c277f" />
+
 ---
 
 ## 📌 Project Overview
