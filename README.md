@@ -14,6 +14,8 @@ The project focuses on building a practical system that reflects how POS systems
 
 <img width="2557" height="1427" alt="image" src="https://github.com/user-attachments/assets/fd668506-5f3b-4b77-90db-09257a508605" />
 
+<img width="2555" height="1404" alt="image" src="https://github.com/user-attachments/assets/aaea9960-12f7-436b-a49c-c8c0c89a0645" />
+
 ---
 
 ## ✨ Features
