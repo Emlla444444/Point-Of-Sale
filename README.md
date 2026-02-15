@@ -38,7 +38,7 @@ The project focuses on building a practical system that reflects how POS systems
 - Frontend: HTML, CSS, JavaScript, Bootstrap (or Tailwind if used)
 - Backend: PHP, Laravel
 - Database: MySQL
-- Tools: GitHub
+- Tools: GitHub, Git
 
 ---
 
